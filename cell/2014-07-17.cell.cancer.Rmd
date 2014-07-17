@@ -1,0 +1,22 @@
+<link href="/Users/wanghu/phenomenon/personlig/markdown/kevinburke.css" rel="stylesheet"></link>
+
+---
+title: "cancer and inflammatory"
+author: "huWANG"
+date: "July 17, 2014"
+output: html_document
+---
+
+由印第安纳大学儿科副教授Nadia Carlesso博士领衔的研究团队发现，类似一串倒下的多米诺骨牌一样，骨髓中的一连串分子事件会产生高水平的炎症反应，该反应会扰乱正常的血液形成，从而可能会导致白血病。这项研究的成果7月3日发表在Cell Stem Cell杂志上。该研究指出了一条可能的治疗血液病的新策略，进一步阐明了炎症和癌症之间的关系。
+
+骨髓中包含造血过程产生的白血球和红血球，而骨髓同时也为造血细胞提供了支持系统（被称作造血微环境）。最新的研究提示了造血微环境在一系列潜在致命疾病（被称作骨髓增生性疾病）的进程中起到的重要作用。实际上，多年来人们已经知道炎症和癌症之间的联系。例如，已知骨髓中的高水平炎症和骨髓增生性疾病的发展相关，而骨髓增生性疾病会因为产生过多的髓细胞（这些细胞正常情况下用来抵御感染）导致严重的疾病。这些疾病给患者带来心脏病发作和中风的危险，并常发展为急性白血病和骨髓衰竭。而目前这些研究缺乏基因模型，特别是对于血液相关的恶性肿瘤，尚没有有效的疗法治疗大部分骨髓增生性疾病。
+
+此次研究针对在血细胞产生的过程中起到重要作用的Notch分子发生异常而导致表达水平降低的现象，研究人员使用基因修饰的小鼠发现，造血微环境中如果缺失Notch会引发一连串的分子事件，结果产生一连串的炎症因子。研究人员阻断了这个生化级联反应链中的一个分子的活动后，小鼠上的骨髓增生性疾病发生了逆转。此外，人类骨髓增生性疾病患者体内该分子的水平也有明显提高。这些发现提示，针对这个免疫反应过程中的不同关键点来开发药物可能是个有潜力的治疗骨髓增生性疾病的策略。Carlesso表示此次研究的另一关键发现是，引起炎症反应的分子链并不直接发生在骨髓造血细胞中，而是存在于构成骨髓微环境的细胞中，特别是在内皮细胞中。
+
+这项工作提示人们不仅需要靶向肿瘤细胞，还应当靶向环绕肿瘤细胞的炎症微环境中的细胞。研究人员相信该策略会在阻止骨髓增生性疾病的进展和急性白血病转移中展现疗效。Carlesso博士还指出Notch分子大多被称为原癌基因，因此过去的研究往往都是靶向Notch基因治疗。该研究提示医生们需要意识到降低Notch功能水平能够抑制血液病发展进程。
+
+***
+
+[article](http://www.cell.com/cell-stem-cell/abstract/S1934-5909(14)00187-8)
+
+> The microRNA miR-155 has been implicated in regulating inflammatory responses and tumorigenesis, but its precise role in linking inflammation and cancer has remained elusive. Here, we identify a connection between miR-155 and Notch signaling in this context. Loss of Notch signaling in the bone marrow (BM) niche alters hematopoietic homeostasis and leads to lethal myeloproliferative-like disease. Mechanistically, Notch signaling represses miR-155 expression by promoting binding of RBPJ to the miR-155 promoter. Loss of Notch/RBPJ signaling upregulates miR-155 in BM endothelial cells, leading to miR-155-mediated targeting of the nuclear factor κB (NF-κB) inhibitor κB-Ras1, NF-κB activation, and increased proinflammatory cytokine production. Deletion of miR-155 in the stroma of RBPJ(-/-) mice prevented the development of myeloproliferative-like disease and cytokine induction. Analysis of BM from patients carrying myeloproliferative neoplasia also revealed elevated expression of miR-155. Thus, the Notch/miR-155/κB-Ras1/NF-κB axis regulates the inflammatory state of the BM niche and affects the development of myeloproliferative disorders.
