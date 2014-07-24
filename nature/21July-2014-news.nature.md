@@ -3,8 +3,7 @@
 ---
 title: "News: Cancer"
 author: "huWANG"
-date: "July 17, 2014"
-output: html_document
+date: "July 21, 2014"
 ---
 
 # New genes linked to breast cancer risk in East Asians
